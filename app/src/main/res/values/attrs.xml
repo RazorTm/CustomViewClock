@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="sColor1" format="color" />
+        <attr name="sColor2" format="color" />
+        <attr name="handSc" format="integer" />
+        <attr name="hourHandSc" format="integer" />
+    </declare-styleable>
+</resources>
